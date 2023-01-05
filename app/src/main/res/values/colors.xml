@@ -10,6 +10,8 @@
 
     <color name="white">#FFFFFFFF</color>
     <color name="card_bg">#F2F2F2</color>
+    <color name="gray">#F2F2F2</color>
+    <color name="dark_gray">#838383</color>
     <color name="accent">#40736E</color>
     <color name="red">#BF3434</color>
 
